@@ -1,0 +1,14 @@
+2018-02-02 14:46:50,700 - INFO - static folder : /Users/hwangjihwan/Desktop/flask-python3/flask-python3/ch05/photolog/photolog/../static
+2018-02-02 14:46:50,700 - INFO - template folder : ../templates
+2018-02-02 14:46:52,137 - INFO - static folder : /Users/hwangjihwan/Desktop/flask-python3/flask-python3/ch05/photolog/photolog/../static
+2018-02-02 14:46:52,137 - INFO - template folder : ../templates
+2018-02-02 14:46:57,923 - INFO - (GET)next_url is http://localhost:5000/
+2018-02-02 14:47:11,419 - DEBUG - None
+2018-02-02 14:47:24,239 - DEBUG - None
+2018-02-02 14:47:27,092 - DEBUG - <User u'root' u'oversour15@naver.com'>
+2018-02-02 14:47:27,101 - INFO - (GET)next_url is 
+2018-02-02 14:47:37,267 - INFO - (GET)next_url is http://localhost:5000/photo/
+2018-02-02 14:47:40,979 - INFO - (POST)next_url is http://localhost:5000/photo/
+2018-02-02 14:49:23,571 - DEBUG - <User u'root' u'oversour15@naver.com'>
+2018-02-02 15:05:11,318 - DEBUG - <User u'root' u'oversour15@naver.com'>
+2018-02-02 15:05:15,596 - INFO - (GET)next_url is http://localhost:5000/
