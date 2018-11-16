@@ -4,9 +4,6 @@
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     트위터와 OAUTH 연동하기 위한 모듈
-    
-    :copyright: (c) 2013-2016 by 4mba.
-    :license: MIT LICENSE 2.0, see license for more details.
 """
 
 
