@@ -4,9 +4,6 @@
     ~~~~~~~~~~~~~~~~~~
 
     photolog 어플리케이션에 적용할 blueprint 모듈.
-
-    :copyright: (c) 2013-2016 by 4mba.
-    :license: MIT LICENSE 2.0, see license for more details.
 """
 
 
